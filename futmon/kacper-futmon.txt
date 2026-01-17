@@ -1,0 +1,177 @@
+The Future of Money
+===================
+comotion@krutt.org, 2011-05-05
+
+URL: https://kunnskapsallmenning.no/futmon/kacper-money.txt
+
+Original URL: https://u.rdir.it/k/money.txt
+
+
+Money talks, and is a medium of communication. Money communicates 
+work, worth, trust and energy. Today's centralized fractional banking 
+system creates the currency we all need to aquire the needs and wants 
+of life. Despite playing such a central role in our lives few have 
+even the most abstract notions of the nature, origins and basis of 
+money.
+
+[ Basis of money WAS gold,trade,land,wealth but is today /apparent/, 
+future worth. Interest and inflation incurred due to this forced 
+future worth causes profit optimization, risk-profit shortsightedness, 
+ecological disaster and world economy markedly out of balance with 
+reality. 
+
+Currency has some essential properties that must be replicated in any 
+new system, otherwise people will not use the new system. 
+
+Transaction independence / Anonymity:
+-------------------------------------
+ 1. money doesn't care where it came from
+ 2. money doesn't care where it's going
+
+Transaction universality
+------------------------
+ 3. money talks
+ - as long as price is settled, money can be employed in exchange 
+between two parties.
+
+External reference
+------------------
+ 4. An external frame of reference provides relative worth of goods in 
+transaction pricing.
+
+Regardless of what we would like our future to look like there is no 
+question that money must lack any facility for morals for the medium 
+to provide any benefit over the current monetary system. It is 
+therefore important that 
+]
+
+We propose to redesign the basis of money while keeping the way we 
+think about money the same. This very simple concept may change the 
+incentive basis that currency provides.
+
+People make their own keys that identify them, thier "signatures". Any 
+number of keys can be issuerd and revoked. Any amount of signatures 
+may be issued on a key, and a signature may be updated with a newer 
+key and different trust level.
+
+Trust revokation is essential and /may be public/, but not in dark 
+(safe anonymous) web. Companies will love to join the "open" net as 
+well as access the "dark" web of trust.
+
+Money reset: To employ the new system, start with /trust/. A trust 
+signing is credit with that /person/. Thereafter, signed messages are 
+exchanges of value and worth.
+
+Price is the prisoner's dilemma in the open and closed environment. In 
+the open environ, a revokation may contain a message (think about it, 
+there is no other way), and it may be a revokation of a /public key/ 
+as well as a private key. The message may also /contain/ the key, so 
+you must guard it well. The message is the face value or price 
+incurred, and is transferred from the renderer to the rendee for 
+service rendered.
+
+A public/private signing of a key signifies a debt that any one may 
+settle, in the form of a good or service that may provide for debt - 
+or a current going rate of other currency.
+
+\Sum currency with convertion factors is "Just another money" but 
+untracable - how?
+
+For example, let us say I had some killer hens, which gave me a good 
+supply of eggs. To make my lazy son carry them to the store, I have to 
+provide an incentive.
+ If he goes to the market and drops 'em off at the store, sometimes 
+they will have what we need, and sometimes not. If they do have what 
+we need, the debt is transferrable and we can take what we need in 
+trade.
+ 
+If they do not have what we need, they need to convey in an 
+_unambiguous way_, unrevokably, that they have been provided a service 
+- they must issue a _certificate_ that transfers their measure of 
+value relative to some externally verifiable conversion factor.
+
+Something is valued at it's potential to come full circle in terms of 
+transactional analysis.
+
+market |  son
+     <-- eggs
+no goods-> 
+1\sum hills' Co signed
+
+me    | keybank
+verify<> Hills' Co signature
+
+The certificates employ existing keyservers as well as private 
+/keybanks/. Keybanks distribute private keys safely and may have 
+periodic revokation and re-keying. Bank issues proportion of "full 
+circle" relative to the bank as well as lists of public keys they sign 
+and revoke optionally with. These are details of an elaborate but open 
+banking system based on the simple principles of I.O.U notes that 
+currency, and banking, started with.
+
+Value <-> good 
+( )        ( )
+Good  <-> value
+
+In the new system, what happened with the bank? That bank is /you/, 
+the community, the company, the institutions producing goods and 
+issuing trust at exchange factor with other banks (institutions, 
+companies, you) in terms of full circle with respect to (community, 
+..) neccessities, needs, wants, plans and potential.
+
+The problem is if you suddenly have an ice breaker :d
+
+The point being, what if you use \Sum currency for some evil purpose? 
+That is unfortunate, but currency will not stop you from stealing my 
+hens, or betraying your wife, or building weapons or polluting like 
+crazy. It is merely a tool in putting you in the driver seat, saying 
+I.O.U. and someone else vouching for you. /We/ wil vouch for /you/ as 
+/you/ will wouch for us. 
+
+
+Build on models of logarithmic stability not exponential growth. 
+System may bechaotic and exibit stable states.
+
+\sum = currency = \pi Ã
+           = time [period]
+           = work = manpower + horsepower + energy
+           = energy
+Full value = full circle.
+Past value = lim \sum -> x tan (\sum) = fraction of your total need = 
+price of good
+
+Bank exchanges your value (\sum) for proportion of total community 
+value (\delta \sum) and together the community forms the currency, the 
+trust in the posted value. 
+
+Don't like it? Revoke the currency or devalue it - you have your own 
+final master list by which you can verify the value.
+
+Internet <- me
+  List
+ ---  > server -> certificate [ date, issuer, asset value, opt: expiry 
+]
+
+Key escrow: you uynlock your key.
+END TO END VALIDITY
+POINT TO POINT VALUE EXCHANGE
+
+The central authority is dead, we must be our own authorities!
+
+"Safe anonymity" : community trust provided anonymity
+
+Whitenet 'open'
+'closed' Darknet
+
+comotion@krutt.org 2011-05-05
+Released under the Creative Commons, BY-SA
+
+References
+-----------
+Northwood - Ther Seaman's Practice - 1637
+Newton - Principia Mathematica Philosophia naturalis 1686
+The Sky Cavendish
+McLuhan - Media the Extensions of Man
+McLuhan - Gutenberg Galaxy
+2012- transit of Mercury cross the Sun
+The art of being an egoist.

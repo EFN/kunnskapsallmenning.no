@@ -1,0 +1,76 @@
+From web.reservation@sas.no Fri Sep 26 15:39:49 2008
+Date: Fri, 26 Sep 2008 09:39:31 -0400 (EDT)
+From: web.reservation@sas.no
+To: thomas@gramstad.no
+Subject: Din bestilling hos SAS to 09 okt 2008.
+
+    [ The following text is in the "UTF-8" character set. ]
+    [ Your display is set for the "ISO-8859-1" character set.  ]
+    [ Some characters may be displayed incorrectly. ]
+
+
+    
+        Takk for din bestilling!
+        REISERUTE
+        BESTILLINGSREFERANSE: GN5BO
+        ------------------------------------------------------------------
+        UTREISE
+        to 09 okt 2008,SK4438(BU) SAS Norge
+        Oslo Gardermoen - Tromsø
+        Avgang: 22:00
+        Ankomst: 23:50
+        Bagasje: 20 KG
+        Måltid: Mat og drikke til salgs
+        Pris: HAPPY
+         
+        ------------------------------------------------------------------
+        HJEMREISE
+        lø 11 okt 2008,SK4411(BU) SAS Norge
+        Tromsø - Oslo Gardermoen
+        Avgang: 10:15
+        Ankomst: 12:05
+        Bagasje: 20 KG
+        Måltid: Mat og drikke til salgs
+        Pris: HAPPY
+         
+        ------------------------------------------------------------------
+        PASSASJERER
+        Hr THOMAS GRAMSTAD, Voksen
+        Elektronisk billett:: GN5BO
+        ------------------------------------------------------------------
+        PRIS
+        Oslo - Tromsø
+        Voksen 974
+         
+        Tromsø - Oslo
+        Voksen 737
+         
+        Servicehonorar 50
+        ------------------------------------------------------------------
+        TOTAL: 1 761 NOK
+        ------------------------------------------------------------------
+        Totalsummen inkluderer
+        Avgifter inkl.mva 531
+        ------------------------------------------------------------------
+        BETALING & KONTAKT
+        Kort brukt til betaling**: EUROCARD**** 0286
+        e-post: thomas@gramstad.no
+        Mobiltlf.: +4748176875
+        ------------------------------------------------------------------
+        HAPPY
+        Billettendringer:  Kan endres mot et gebyr.
+        Se detaljerte prisregler under.
+        Refusjon:  Nei.
+        Skatter og avgifter på ubenyttede billetter er refunderbare.
+        Barnerabatt:  0-2 år gratis, 2-15 år 33% rabatt.
+        ------------------------------------------------------------------
+        * Setevalg kan bli endret. Har du fått tildelt sete men ønsker å endre? Klikk på setenummeret.
+        ** Totalbeløpet er reservert og vil bli trukket umiddelbart etter at bestillingen er bekreftet
+        Bestillingstidspunkt: fr 26 sep 2008, 13:35 EDT
+         
+        SAS
+        Organisasjonsnummer: 961510740 MVA
+         
+        Du kan kansellere innen 24 timer etter bestilling. Totalprisen blir da refundert. Du kan kansellere selv på sas.no eller kontakte oss på e-post eller telefon.
+        
+

@@ -1,0 +1,492 @@
+From gisle@ifi.uio.no Tue Aug 26 04:25:10 2008
+Date: Tue, 26 Aug 2008 04:24:53 +0200 (CEST)
+From: Gisle Hannemyr <gisle@ifi.uio.no>
+To: John Erling Blad <john.erling.blad@jeb.no>
+Cc: jonb <jon.bing@jus.uio.no>, Benjamin Wikipedia <benjamin.wikipedia@gmail.com>, cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+Subject: Re: [cc-no-ag] Inngåtte avtaler og gyldighet av åpne/frie lisenser
+
+Jeg er ikke sikker på om jeg 100 % skjønner problemstillingen, men her
+følger likevel et forsøk på svar.
+
+I utgangspunktet betraktes en CC lisens som en avtale som gir den annen
+part rett til å bruke materialet så lenge denne holder sin del av
+denne avtalen.  Dett er slått eksplisitt fast i lisensene, der det
+f.eks. står følgende i fortalen:
+
+    Ved å benytte rettighetene til frembringelsen som følger av denne
+    lisensen, aksepterer du å være bundet av lisensens vilkår.
+    Ved dette gir lisensgiveren deg de rettigheter som her er
+    beskrevet under den forutsetning at du godtar lisensens
+    betingelser og vilkår. Ved mislighold av vilkårene i denne
+    lisensen bortfaller alle rettigheter som er gitt deg gjennom denne
+    lisensen.
+    Se f.eks.: https://creativecommons.org/licenses/by-nc-sa/3.0/no/legalcode
+
+I Norge mener jeg dette juridisk sett er å anse som en avtale (altså ikke
+en kontrakt):  Bryter man denne avtalen har man ingen rett til å bruke
+materialet, og da er man tilbake på bakgrunnsretten (åndsverkloven).
+Åndsverkloven slår fast at bruk forutsetter tillatelse, og siden
+mislighold automatisk medfører at tillatelsen (lisensen) trekkes tilbake
+begår brukeren i så fall opphavsretsbrudd, som kan gi grunnlag for
+rettslige forføyelser (søksmål, etc.)
+
+Dette er SVJV det rettslige grunnlaget som alle "frie" lisenser (CC,
+GPL, GFDL, etc.) bygger på.  Det gjøres ganske detaljert rede for
+det i dette notatet:
+   https://jmri.sourceforge.net/k/docket/cafc-pi-1/ccc_brf.pdf
+og legges til grunn i denne dommen i USA:
+   https://www.cafc.uscourts.gov/opinions/08-1001.pdf
+Se også:
+   https://creativecommons.org/weblog/entry/8826
+
+En tysk domstol har tidligere kommet til samme konklusjon i en sak
+med utgangspunlt i GPL:
+   https://www.groklaw.net/article.php?story=20060922134536257
+
+SVJV har en slik sak ikke vært prøvd for norsk rett, men jeg er
+rimelig optimistisk mht. at det rettslige prinsippet som det
+gjøres rede for over også vil holde ved en tilsvarende tvist i
+Norge.
+
+Videre er det viktig å forstå at linsensen kan ikke gis
+virkning ut over det som lisensen omfatter (navngivelse,
+copyleft, etc.).  Også dette står det helt eksplisitt i
+lisensen (jf. § 8e i by-nc-sa):
+
+   Denne lisensen utgjør helt og holdent avtalen mellom partene
+   for frembringelsen som er lisensiert her. Det foreligger ingen
+   andre underforståtte avtalevilkår eller lignende vedrørende
+   frembringelsen.
+
+
+Så vidt jeg forstår handler ditt spørsmål ikke om lisensen
+som sådan, men om at WM Norge inngår en separat avtale med en
+oppdragsgiver (det antydes SMS-tilpassing mot betaling), og
+at denne avtalen deretter brytes av tredjeparten (for eksempel
+ved at det ikke betales for oppdraget).
+
+Jeg er, som sagt, usikker på om jeg forstår problemet, men
+vil anta at det er som følger:  Etter å ha brutt tilleggs-
+avtalen benytter oppdragsgiver seg likevel av resultatet
+(det SMS-tilpassede innholdet), og påberoper seg  CC/GFDL
+med tilhørende lisens som hjemmel for fri og fortsatt bruk
+av det (tilpassede) materialet.  Dette fordi Copyleft-
+prinsippet i disse lisensene innebærer at også  bearbeidelser
+(dvs. det SMS-tilpassede innholdet) er fritt tilgjengelig
+under CC/GFDL.
+
+(Dere må evt. komme tilbake å supplere dersom overstående
+ikke er riktig forstått).
+
+Med utgangspunkt denne forståelsen av problemstillingen,
+er er et forsøk på å svare på dine konkrete spørsmål:
+
+- "og det nye verket frigis under samme lisens, deretter
+   misligholdes avtalen av avtalemotpart, gjelder lisensen da?"
+
+Svaret er etter min oppfatning "ja", forutsatt at det er den
+separate avtalen som er misligholdt, og ikke lisensen.
+
+- "Det vil si kan parten som misligholder avtalen fortsette å
+   bruke det nye verket ved å vise til lisensen?"
+
+Igjen er svaret etter min oppfatning "ja".
+
+- "I den her saken sier motparten at «vi har ikke bestilt varene»
+   og deretter bruker de dem. [...] Hvordan skal vi forholde oss
+   til slike saker, har vi noe annet å bruke enn vanntette
+   skriftlige avtaler med forskuddsbetaling?"
+
+Dersom WM Norge (eller andre) påtar seg betalte oppdrag med å
+videreutvikle/tilpasse innhold som er tilgjengelig under CC/GFDL
+for bestemte oppdragsgivere kommer dere neppe utenom en viss
+ryddighet når det gjelder å inngå slike avtaler.  Det naturlige
+og enkleste er etter min mening at det inngås en kontrakt
+(skriftlig avtale som undertegnes av begge parter) som beskriver
+oppdraget, hva som skal leveres, og hva som skal betales.
+Har man en slik kontrakt som dokumentasjon av oppdraget kan
+motparten neppe slippe unna med å påstå «vi har ikke bestilt
+varene» el.l., dersom de bryter kontrakten (f.eks. ved ikke å
+betale).  Dermed kan man  forfølge dette kontraktsbruddet
+rettslig.
+
+Jeg tror det er et blindspor å forsøke å koble andre avtaler
+og kontrakter man måtte inngå til CC og/eller GFDL, selv
+om materialet oppdraget omfatter er tilgjengelig under CC/GFDL.
+Dreier det seg om et oppdrag mot betaling eller andre
+gjenytelser bør det ligge en kontrakt til grunn for oppdraget.
+Å koble et slikt oppdrag til CC-lisensen eller GFDL tror jeg
+verken er mulig eller ønskelig.
+
+(Jeg sender kopi av dette svaret til CC arbeidsgruppe - der
+vi har kunnskapsrike folk som evt. kan korrigere eller supplere.)
+
+================
+John Erling Blad wrote:
+> Problemstillingen er en liten mind-twister, og jeg er ikke helt uhildet
+> så jeg tolker kanskje ting galt, men likefullt må vi finne en løsning
+> for Wikimedia Norge. Jeg tar meg friheten å sende denne til Jon Bing og
+> Gisle Hannemyr, kanskje dere vet noe. Om dere ikke vet så har vi et
+> problem! ;)
+>
+> Når et verk er frigitt under GPL/GFDL eller en annen åpen lisens, og
+> dette verket utvides eller tilpasses som en del av en avtale om betalt
+> bistand eller oppgaveløsning, og lisensen respekteres i denne prosessen
+> og det nye verket frigis under samme lisens, deretter misligholdes
+> avtalen av avtalemotpart, gjelder lisensen da? Det vil si kan parten som
+> misligholder avtalen fortsette å bruke det nye verket ved å vise til
+> lisensen?
+>
+> Hvis WM Norge skal gå inn i noen form for avtale med selskaper så må vi
+> vite hva vi kan og ikke kan forvente av gjensidighet i avtaler. Hvis vi
+> leverer en vare eller tjeneste, kan vi da beholde eiendomsretten inntil
+> varer og tjenester er betalt? Men hva skjer med eiendomsretten når slike
+> lisenser brukes?
+>
+> Jeg står oppe i en slik sak, og selv om den for meg er grenseløst
+> irriterende så kan tilsvarende saker bli lagt vanskeligere for WM Norge,
+> og langt mer kostbare. I den her saken sier motparten at «vi har ikke
+> bestilt varene» og deretter bruker de dem. Overført til Wikipedia så kan
+> vi tenke oss at vi nedlegger et arbeid i å tilpasse artiklers ingresser
+> til sms-pedia og selskapet kommer etterpå og sier at «Wikipedia er fritt
+> tilgjengelig».
+>
+> Hvordan skal vi forholde oss til slike saker, har vi noe annet å bruke
+> enn vanntette skriftlige avtaler med forskuddsbetaling?
+>
+> John Erling Blad
+>
+
+
+-- 
+Gisle Hannemyr ( https://hannemyr.com/ )
+
+_______________________________________________
+cc-no-arbeidsgruppe mailing list
+cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+https://mailman.kunnskapsallmenning.no/mailman/listinfo/cc-no-arbeidsgruppe
+
+From john.erling.blad@jeb.no Tue Aug 26 05:12:29 2008
+Date: Tue, 26 Aug 2008 05:00:56 +0200
+From: John Erling Blad <john.erling.blad@jeb.no>
+To: Gisle Hannemyr <gisle@ifi.uio.no>
+Cc: jonb <jon.bing@jus.uio.no>, Benjamin Wikipedia <benjamin.wikipedia@gmail.com>, cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+Subject: Re: [cc-no-ag] Inngåtte avtaler og gyldighet av åpne/frie lisenser
+
+Tror jeg må presisere litt, men forståelsen i svaret til Gisle er nok
+ganske korrekt. Det er en sak hvor det er snakk om å gjøre noe
+tilpassning av et verk, hvor dette så skal inngå i en betaltjeneste. Jeg
+har en mistanke om at hvis vi, dvs WM Norge, involverer oss i slikt
+arbeid så er det vanskelig å vise til at det bearbeidede verket er eid
+av oss på noen måte og dermed har vi lite håndfast i en sak. Dermed
+faller det hele ned på hvilken kontrakter vi inngår med motparten.
+
+Forøvrig har ikke WM Norge inngått noe slikt samarbeid på nåværende
+tidspunkt, og sms-tjenesten er et eksempel, om enn et nokså konkret et.
+Selskapet som driver denne tjenesten er særdeles velvillig innstilt
+ovenfor WM Norge, så igjen, dette er et eksempel.
+
+Jeg har derimot en tilsvarende sak hvor en oppdragsgiver opptrer på en
+tilsvarende måte, men der er heldigvis deler av arbeidet avbrutt og ikke
+publisert av meg. Deler av materialet er påført lisenser (GFDL, GPL),
+selv om det aldri ble ferdigstilt. Fordi jeg er involvert i denne saken
+så er jeg ikke sikker på om jeg helt uhildet klarer å vurdere hva som er
+de praktiske konsekvensene, og hvordan noe slikt samsvarer med en tenkt
+situasjon ift WM Norge. Med andre ord så ser jeg problemet, men ikke hva
+som er løsningen.
+
+Jeg antar at vi må utvise varsomhet om vi forplikter oss, da vi i
+praksis ikke vil ha noen mulighet til å blokkere eller hindre bruk av
+kode eller innhold i det øyeblikk det er levert til motparten.
+
+John
+
+Gisle Hannemyr skrev:
+> Jeg er ikke sikker på om jeg 100 % skjønner problemstillingen, men her
+> følger likevel et forsøk på svar.
+>
+> I utgangspunktet betraktes en CC lisens som en avtale som gir den annen
+> part rett til å bruke materialet så lenge denne holder sin del av
+> denne avtalen.  Dett er slått eksplisitt fast i lisensene, der det
+> f.eks. står følgende i fortalen:
+>
+>     Ved å benytte rettighetene til frembringelsen som følger av denne
+>     lisensen, aksepterer du å være bundet av lisensens vilkår.
+>     Ved dette gir lisensgiveren deg de rettigheter som her er
+>     beskrevet under den forutsetning at du godtar lisensens
+>     betingelser og vilkår. Ved mislighold av vilkårene i denne
+>     lisensen bortfaller alle rettigheter som er gitt deg gjennom denne
+>     lisensen.
+>     Se f.eks.: https://creativecommons.org/licenses/by-nc-sa/3.0/no/legalcode
+>
+> I Norge mener jeg dette juridisk sett er å anse som en avtale (altså ikke
+> en kontrakt):  Bryter man denne avtalen har man ingen rett til å bruke
+> materialet, og da er man tilbake på bakgrunnsretten (åndsverkloven).
+> Åndsverkloven slår fast at bruk forutsetter tillatelse, og siden
+> mislighold automatisk medfører at tillatelsen (lisensen) trekkes tilbake
+> begår brukeren i så fall opphavsretsbrudd, som kan gi grunnlag for
+> rettslige forføyelser (søksmål, etc.)
+>
+> Dette er SVJV det rettslige grunnlaget som alle "frie" lisenser (CC,
+> GPL, GFDL, etc.) bygger på.  Det gjøres ganske detaljert rede for
+> det i dette notatet:
+>    https://jmri.sourceforge.net/k/docket/cafc-pi-1/ccc_brf.pdf
+> og legges til grunn i denne dommen i USA:
+>    https://www.cafc.uscourts.gov/opinions/08-1001.pdf
+> Se også:
+>    https://creativecommons.org/weblog/entry/8826
+>
+> En tysk domstol har tidligere kommet til samme konklusjon i en sak
+> med utgangspunlt i GPL:
+>    https://www.groklaw.net/article.php?story=20060922134536257
+>
+> SVJV har en slik sak ikke vært prøvd for norsk rett, men jeg er
+> rimelig optimistisk mht. at det rettslige prinsippet som det
+> gjøres rede for over også vil holde ved en tilsvarende tvist i
+> Norge.
+>
+> Videre er det viktig å forstå at linsensen kan ikke gis
+> virkning ut over det som lisensen omfatter (navngivelse,
+> copyleft, etc.).  Også dette står det helt eksplisitt i
+> lisensen (jf. § 8e i by-nc-sa):
+>
+>    Denne lisensen utgjør helt og holdent avtalen mellom partene
+>    for frembringelsen som er lisensiert her. Det foreligger ingen
+>    andre underforståtte avtalevilkår eller lignende vedrørende
+>    frembringelsen.
+>
+>
+> Så vidt jeg forstår handler ditt spørsmål ikke om lisensen
+> som sådan, men om at WM Norge inngår en separat avtale med en
+> oppdragsgiver (det antydes SMS-tilpassing mot betaling), og
+> at denne avtalen deretter brytes av tredjeparten (for eksempel
+> ved at det ikke betales for oppdraget).
+>
+> Jeg er, som sagt, usikker på om jeg forstår problemet, men
+> vil anta at det er som følger:  Etter å ha brutt tilleggs-
+> avtalen benytter oppdragsgiver seg likevel av resultatet
+> (det SMS-tilpassede innholdet), og påberoper seg  CC/GFDL
+> med tilhørende lisens som hjemmel for fri og fortsatt bruk
+> av det (tilpassede) materialet.  Dette fordi Copyleft-
+> prinsippet i disse lisensene innebærer at også  bearbeidelser
+> (dvs. det SMS-tilpassede innholdet) er fritt tilgjengelig
+> under CC/GFDL.
+>
+> (Dere må evt. komme tilbake å supplere dersom overstående
+> ikke er riktig forstått).
+>
+> Med utgangspunkt denne forståelsen av problemstillingen,
+> er er et forsøk på å svare på dine konkrete spørsmål:
+>
+> - "og det nye verket frigis under samme lisens, deretter
+>    misligholdes avtalen av avtalemotpart, gjelder lisensen da?"
+>
+> Svaret er etter min oppfatning "ja", forutsatt at det er den
+> separate avtalen som er misligholdt, og ikke lisensen.
+>
+> - "Det vil si kan parten som misligholder avtalen fortsette å
+>    bruke det nye verket ved å vise til lisensen?"
+>
+> Igjen er svaret etter min oppfatning "ja".
+>
+> - "I den her saken sier motparten at «vi har ikke bestilt varene»
+>    og deretter bruker de dem. [...] Hvordan skal vi forholde oss
+>    til slike saker, har vi noe annet å bruke enn vanntette
+>    skriftlige avtaler med forskuddsbetaling?"
+>
+> Dersom WM Norge (eller andre) påtar seg betalte oppdrag med å
+> videreutvikle/tilpasse innhold som er tilgjengelig under CC/GFDL
+> for bestemte oppdragsgivere kommer dere neppe utenom en viss
+> ryddighet når det gjelder å inngå slike avtaler.  Det naturlige
+> og enkleste er etter min mening at det inngås en kontrakt
+> (skriftlig avtale som undertegnes av begge parter) som beskriver
+> oppdraget, hva som skal leveres, og hva som skal betales.
+> Har man en slik kontrakt som dokumentasjon av oppdraget kan
+> motparten neppe slippe unna med å påstå «vi har ikke bestilt
+> varene» el.l., dersom de bryter kontrakten (f.eks. ved ikke å
+> betale).  Dermed kan man  forfølge dette kontraktsbruddet
+> rettslig.
+>
+> Jeg tror det er et blindspor å forsøke å koble andre avtaler
+> og kontrakter man måtte inngå til CC og/eller GFDL, selv
+> om materialet oppdraget omfatter er tilgjengelig under CC/GFDL.
+> Dreier det seg om et oppdrag mot betaling eller andre
+> gjenytelser bør det ligge en kontrakt til grunn for oppdraget.
+> Å koble et slikt oppdrag til CC-lisensen eller GFDL tror jeg
+> verken er mulig eller ønskelig.
+>
+> (Jeg sender kopi av dette svaret til CC arbeidsgruppe - der
+> vi har kunnskapsrike folk som evt. kan korrigere eller supplere.)
+>
+> ================
+> John Erling Blad wrote:
+>   
+>> Problemstillingen er en liten mind-twister, og jeg er ikke helt uhildet
+>> så jeg tolker kanskje ting galt, men likefullt må vi finne en løsning
+>> for Wikimedia Norge. Jeg tar meg friheten å sende denne til Jon Bing og
+>> Gisle Hannemyr, kanskje dere vet noe. Om dere ikke vet så har vi et
+>> problem! ;)
+>>
+>> Når et verk er frigitt under GPL/GFDL eller en annen åpen lisens, og
+>> dette verket utvides eller tilpasses som en del av en avtale om betalt
+>> bistand eller oppgaveløsning, og lisensen respekteres i denne prosessen
+>> og det nye verket frigis under samme lisens, deretter misligholdes
+>> avtalen av avtalemotpart, gjelder lisensen da? Det vil si kan parten som
+>> misligholder avtalen fortsette å bruke det nye verket ved å vise til
+>> lisensen?
+>>
+>> Hvis WM Norge skal gå inn i noen form for avtale med selskaper så må vi
+>> vite hva vi kan og ikke kan forvente av gjensidighet i avtaler. Hvis vi
+>> leverer en vare eller tjeneste, kan vi da beholde eiendomsretten inntil
+>> varer og tjenester er betalt? Men hva skjer med eiendomsretten når slike
+>> lisenser brukes?
+>>
+>> Jeg står oppe i en slik sak, og selv om den for meg er grenseløst
+>> irriterende så kan tilsvarende saker bli lagt vanskeligere for WM Norge,
+>> og langt mer kostbare. I den her saken sier motparten at «vi har ikke
+>> bestilt varene» og deretter bruker de dem. Overført til Wikipedia så kan
+>> vi tenke oss at vi nedlegger et arbeid i å tilpasse artiklers ingresser
+>> til sms-pedia og selskapet kommer etterpå og sier at «Wikipedia er fritt
+>> tilgjengelig».
+>>
+>> Hvordan skal vi forholde oss til slike saker, har vi noe annet å bruke
+>> enn vanntette skriftlige avtaler med forskuddsbetaling?
+>>
+>> John Erling Blad
+>>
+>>     
+>
+>
+>   
+
+    [ Part 2: "Attached Text" ]
+
+_______________________________________________
+cc-no-arbeidsgruppe mailing list
+cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+https://mailman.kunnskapsallmenning.no/mailman/listinfo/cc-no-arbeidsgruppe
+
+From gisle@ifi.uio.no Thu Aug 28 11:02:44 2008
+Date: Thu, 28 Aug 2008 11:02:38 +0200
+From: Gisle Hannemyr <gisle@ifi.uio.no>
+To: John Erling Blad <john.erling.blad@jeb.no>
+Cc: Benjamin Wikipedia <benjamin.wikipedia@gmail.com>, cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+Subject: Re: [cc-no-ag] Inngåtte avtaler og gyldighet av åpne/frie lisenser
+
+On 26.08.2008 05:00, John Erling Blad wrote:
+> Tror jeg må presisere litt, men forståelsen i svaret til Gisle er nok
+> ganske korrekt. Det er en sak hvor det er snakk om å gjøre noe
+> tilpassning av et verk, hvor dette så skal inngå i en betaltjeneste. Jeg
+> har en mistanke om at hvis vi, dvs WM Norge, involverer oss i slikt
+> arbeid så er det vanskelig å vise til at det bearbeidede verket er eid
+> av oss på noen måte og dermed har vi lite håndfast i en sak.
+
+Råderetten over bearbeidelsen avhenger imidlertid både av
+hvem som har skapt originalen, og hvilken lisens det er snakk
+om.
+
+I det følgende vil jeg bare omtale CC-lisenser.  GFDL er for
+de formål vi her diskuterer, identisk med CC BY-SA.
+
+1. Dersom det er snakk om et verk som du selv har opphavsretten
+    til (f.eks. et verk skapt av deg selv) er det mulig
+    å inngå en separat avtale om utnyttelse av verket med
+    oppdragsgiver, og sikre seg råderetten over bearbeidelsen
+    gjennom alminnelig opphavsrett. Det er ingen ting som
+    hindrer deg i å publisere et eget verk under f.eks. CC BY-SA,
+    og å parallell-publisere en bearbeidelse av samme verk gjennom
+    utvalgte utgivere under helt andre betingelser.  Da vil du ha
+    en kontrakt om utnyttelse av bearbeidelsen som ikke er en
+    CC-lisens.
+
+2. Dersom der snakk om et verk skapt av andre, som er underlagt en
+    lisenstype som tillater bearbeidelser, og som tillater kommersiell
+    bruk, men uten å legge føringer på hva slags lisens bearbeidelsen
+    skal gjøres tilgjengelig under (dvs. CC BY), så kan dere også
+    sikre at du selv og/eller WM Norge har full rådrett over
+    bearbeidelsen ved å angi at denne er beskyttet av alminnelig
+    opphavsrett.  Da må dere inngå en kontrakt om utnyttelse av
+    bearbeidelsen som ikke er en CC-lisens.
+
+3. Dersom det er snakk om verk skap av andre, underlagt en
+    lisenstype som tillater bearbeidelser, og som tillater
+    kommersiell bruk, men som i tillegg legger føringer på hva
+    slags lisens bearbeidelsen skal gjøres tilgjengelig under
+    (dvs. CC BY-SA og GFDL), så innebærer lisensen for alle
+    praktiske formål en fraskrivelse av de økonomiske rettighetene
+    knyttet til bearbeidelser av verket.  I denne situasjonen er
+    det ikke bare er "vanskelig" å berope seg andre rettigheter
+    (herunder eiendomsrett) til en slik bearbeidelse, men at
+    å hevde en slik eiendomsrett vil være i strid med lisensens
+    ånd og bokstav.  I dette tilfellet medfører Copyleft at
+    utnyttelsen av bearbeidelsen vil være regulert av CC BY-SA.
+    Det er imidlertid intet som er til hinder for at dere kan
+    ta betalt for arbeidet med å gjøre bearbeidelsen, men dette
+    oppdraget må det lages en egen kontrakt for.
+
+ > Dermed
+> faller det hele ned på hvilken kontrakter vi inngår med motparten.
+
+Er det penger inne i bildet, kommer man neppe utenom en kontrakt.
+
+Det som er spesielt med  tilfelle 3 er at det allerede finnes en
+avtale (CC BY-SA) som gir motparten adgang til fri bruk, slik at
+det i mangel av noen annen avtale/kontrakt kan  motparten utnytte
+materialet med henvisning til CC BY-SA.
+
+Dette til forskjell fra tilfelle 1 og 2. Her har motparten ingen 
+bruksrett til bearbeidelsen før det foreligger en kontrakt.
+(Men, som jeg siden skal vise, er det ikke alltid at mangel
+på bruksrett hindrer utnyttelse.)
+
+Men igjen: Er det betaling involvert vil jeg påstå at det hele
+/alltid/ faller ned på hvilken kontrakter man inngår med motparten,
+helt uavhengig om det opprinnelige verket er tilgjengelig under
+en fri lisens eller ikke.
+
+> Jeg har derimot en tilsvarende sak hvor en oppdragsgiver opptrer på en
+> tilsvarende måte, men der er heldigvis deler av arbeidet avbrutt og ikke
+> publisert av meg. Deler av materialet er påført lisenser (GFDL, GPL),
+> selv om det aldri ble ferdigstilt. Fordi jeg er involvert i denne saken
+> så er jeg ikke sikker på om jeg helt uhildet klarer å vurdere hva som er
+> de praktiske konsekvensene, og hvordan noe slikt samsvarer med en tenkt
+> situasjon ift WM Norge. Med andre ord så ser jeg problemet, men ikke hva
+> som er løsningen.
+ >
+> Jeg antar at vi må utvise varsomhet om vi forplikter oss, da vi i
+> praksis ikke vil ha noen mulighet til å blokkere eller hindre bruk av
+> kode eller innhold i det øyeblikk det er levert til motparten.
+
+Løsningen, som sagt, er å sørge for at dere har en kontrakt der
+motparten forplikter seg til å betale for utført arbeide. Da vil
+dere dere en helt grei økonomisk fordring på motparten som dere
+f.eks. kan sende til inkasso dersom faktura ikke blir betalt.
+
+Og igjen:
+Selv om man ikke fraskriver seg økonomiske rettigheter ved å bruke
+lisenser som CC BY-SA kan man lett komme ut å kjøre i forhold til
+kranglete kunder dersom man ikke sørger for at det ligger en klar
+kontrakt til grunn for oppdraget.
+
+Eksempel:
+En konsulent utfører et oppdrag mot betaling som resulterer i en
+rapport som overleveres oppdragsgiver.  Oppdragsgiver betaler
+ikke faktura og oppgir som grunn at rapporten aldri var bestilt.
+I dette tilfellet har konsulenten både eiendomsrett og opphavsrett
+til rapporten, men kan neppe hindre oppdragsgiver i å utnytte den
+innsikt som rapporten gir.  Finnes det ikke kontrakt står påstand
+mot påstand, og sjansene for å få betalt er små.
+
+Spørsmålet er altså om dette er et problem som bare oppstår i samband
+med bruk av åpne/frie lisenser - eller om dette er et problem som kan
+oppstå helt uavhengig av åpne/frie lisenser?
+
+Jeg mener at det det siste som ofte er tilfelle.
+-- 
+- gisle hannemyr [ gisle{at}hannemyr.no - https://folk.uio.no/gisle/ ]
+========================================================================
+     "Don't follow leaders // Watch the parkin' meters" - Bob Dylan
+_______________________________________________
+cc-no-arbeidsgruppe mailing list
+cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+https://mailman.kunnskapsallmenning.no/mailman/listinfo/cc-no-arbeidsgruppe

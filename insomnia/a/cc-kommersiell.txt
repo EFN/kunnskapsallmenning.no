@@ -1,0 +1,57 @@
+From gisle@ifi.uio.no Wed Oct  1 22:33:05 2008
+Date: Wed, 01 Oct 2008 22:33:02 +0200
+From: Gisle Hannemyr <gisle@ifi.uio.no>
+To: "Mykland, Eirik" <Eirik.Mykland@aa-f.kommune.no>
+Cc: cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+Subject: Re: [cc-no-ag] Grensen mellom kommersiell og ikke-kommersiell
+
+On 23.09.2008 14:19, Mykland, Eirik wrote:
+> Når er et nettsted "kommersielt? Er det knyttet til eierskap
+> til domenet, eller er selve innholdet som bestemmer dette?
+
+Det er ikke noe kort eller enkelt svar på dette spørsmålet.
+Flere komponenter inngpr i "ligningen" - blant annet hvem som
+står bak nettstedet, og hvordan nettstedet brukes og hva slags
+betingelser som det er for å bruke nettstedet.
+
+> I deres omtale av kommersiell bruk står dette om det kommersielle
+> lisenselementet:
+>    ....Er dette lisens elementet valgt er bruk til reklameformål,
+>    ervervsmessig bruk, og annen bruk som har til formål å gi
+>   kommersiell nytte, eller som gir økonomisk gevinst, forbudt.
+>
+> Det finnes for eksempel mange norske nettsteder knyttet til reiseliv
+> og turisme, som informerer om overnattingsmuligheter, attraksjoner
+> og severdigheter på et gitt geografisk sted. Nettstedet er i seg
+> selv ikke-kommersielt, i den forstand at egen profitt ikke er
+> motivet for å drifte nettstedet. Samtidig fungerer nettstedet som
+> en distribusjonskanal for både kommersielle og ikke-kommersielle
+> produkter.
+
+At kommersielle produkter som hotellrom og reiser er tilgjengelig
+via nettstedet har ingen ting å si.
+
+Det som betyr mer er hvem som driver nettstedet - er dette en
+privatperson, en organisasjon som ikke driver erverv (f.eks. en
+velforening) eller er det en kommersiell virksomhet.  Er det
+det siste. så regnes det som kommersiell bruk.
+
+Jeg har laget en liten veiviser (foreløpig kun på engelsk)
+for å klargjøre om en bestemt bruk er ikke-kommersiell.
+
+Dere finner beta-versjonen av veiviseren på denne adressen:
+   https://www.creativecommons.no/ncguide/
+
+Forsøk den gjerne ut på ditt tilfelle, og gi meg tilbakemelding på
+hvor godt den fungerer mht. til å gi et klart svar på ditt
+spørsmål - og hvordan den evt. kan forbedres.
+
+(Beklager at jeg ikke har en norsk versjon av veiviseren klar.)
+-- 
+- gisle hannemyr [ gisle{at}hannemyr.no - https://folk.uio.no/gisle/ ]
+========================================================================
+    "Don't follow leaders // Watch the parkin' meters" - Bob Dylan
+_______________________________________________
+cc-no-arbeidsgruppe mailing list
+cc-no-arbeidsgruppe@mailman.kunnskapsallmenning.no
+https://mailman.kunnskapsallmenning.no/mailman/listinfo/cc-no-arbeidsgruppe

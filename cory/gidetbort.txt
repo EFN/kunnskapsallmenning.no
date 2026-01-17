@@ -1,0 +1,205 @@
+GI DET BORT!
+
+Av Cory Doctorow
+
+Bok og bibliotek nr. 2 2007
+www.bokogbibliotek.no
+
+
+Jeg har gitt bort bøkene mine helt siden min første roman kom ut,
+og jeg har tjent massevis av penger på det.
+
+Da min første roman Down and Out in the Magic Kingdom ble utgitt
+av Tor Books i januar 2003 la jeg samtidig ut hele teksten på
+Internett med en Creative Commons-lisens som oppmuntret mine
+lesere til å kopiere og spre den i det vide og brede. I løpet av
+en dag var det 30 000 nedlastinger fra nettstedet mitt, og hver av
+nedlasterne sto fritt til å lage og spre flere kopier. Tre år og
+seks opplag senere har det blitt lastet ned mer enn 700 000 kopier
+av boka fra mitt nettsted. Boka har blitt oversatt til flere språk
+enn jeg klarer å holde oversikten over, kjernebegreper fra boka
+har blitt tilpasset til og brukt i programvareprosjekter og det
+finnes to konkurrerende lydbøker på nettet, begge laget av fans.
+
+De fleste som laster ned boka kjøper den ikke, men de ville ikke
+ha kjøpt den uansett - så dermed har jeg ikke tapt noen salg, men
+istedet vunnet et nytt publikum. Et ørlite mindretall av
+nedlasterne holder seg kun til den gratis e-boka istedenfor å
+kjøpe den trykte boka - disse utgjør tapte salg. Men for et mye
+større mindretall er e-boka et fristende lokkemiddel som gjør at
+de kjøper den trykte boka. Dette gir dermed mange nye salg. Så
+lenge de nye salgene utgjør et større antall enn de tapte salgene
+går jeg med overskudd. Det har jo tross alt ikke kostet meg noe å
+distribuere en snau million eksemplarer av boka.
+
+Det spesielle med en e-bok er at den er et sosialt objekt. Den
+ønsker å bli kopiert fra venn til venn, å bli strålet avgårde fra
+en håndholdt maskin, å bli limt inn i epost-adresseliste. Den
+tigger om å bli konvertert til vittige signaturer på slutten av
+epostmeldinger. Den er så flytende og ikke-materiell at den kan
+spre seg utover hele livet ditt. Ikke noe selger bøker like bra
+som en personlig anbefaling - da jeg jobbet i en bokhandel var de
+hyggeligste ordene vi kunne få høre "Min venn foreslo at jeg må få
+med meg ...". Vennen gjorde salget for oss, vi behøvde bare å ta
+imot pengene. I online-vennskapenes tidsalder overtar e-bøker
+jungeltelegrafen fra døde trær.
+
+Det er to spørsmål andre forfattere pleier å stille meg om dette
+opplegget: for det første om det selger flere bøker? Og for det
+andre: hvordan fikk du forleggeren din til å gå inn for denne
+galskapen?
+
+Jeg kan ikke bevise empirisk at å gi bort bøker selger flere bøker
+- men jeg har gjort dette med tre romaner og en novellesamling (og
+jeg vil gjøre det med to romaner til og enda en novellesamling i
+2007), og salget av mine bøker har alltid overgått min forleggers
+forventninger. En sammenligning av salgstallene mine med
+salgstallene til forfatterkolleger antyder at mine bøker gjør det
+bedre enn bøker av lignende forfattere på samme stadium i sine
+karrierer. Men uten mulighet til å gå tilbake i tiden og gi ut de
+samme bøkene på nytt på samme tidspunkt og med samme
+omstendigheter men uten å samtidig tilby frie og gratis
+e-bok-utgave av bøkene kan man ikke være fullstendig sikker.
+
+Det som derimot er sikkert er at hver eneste forfatter som har
+prøvd å gi bort e-bøker for å selge papirbøker har blitt fornøyd
+med resultatet og er klar for å fortsette med det.
+
+Hvordan overtalte jeg Tor Books til å la meg gjøre dette? De er
+ikke akkurat en overmodig dotcom-oppkomling. De er den største
+science fiction-utgiveren i verden, og de er en gren av den tyske
+utgivergiganten Holtzbrinck. De er ikke patchouli-luktende
+info-hippier som tror at informasjon ønsker å være fri. Istedet er
+de slu og vurderende kjennere av science fiction, kanskje den mest
+sosiale av alle litterære sjangre. Science fiction styres av
+organisert fandom, frivillige som arrangerer hundrevis av
+litterære festivaler på hvert hjørne av kloden, hver helg hele
+året. Disse uredde arrangørene behandler bøker som
+identitetsmarkører og som kulturgjenstander av stor betydning. De
+misjonerer for bøker de elsker, danner subkulturer rundt dem,
+siterer dem i politiske debatter, og noen ganger oomordner de til
+og med livet sitt og arbeidet sitt rundt dem.
+
+Hva mer er, de tidlige tilpasserne (early adopters) fra science
+fiction var dem som bestemte og definerte Internetts sosiale
+natur. Gitt det høye samsvaret mellom å ha et teknisk yrke og å
+lese science fiction var det uunngåelig at den første
+ikke-tekniske diskusjonen på Internett ville dreie seg om science
+fiction. Internettskikkene med intetsigende prat, fannisk
+organisering, publisering og fritid kommer fra science fiction
+fandom, og dersom noen litterær sjanger har et naturlig hjem i
+cyberspace, så er det science fiction - den samme sjangeren som
+skapte ordet "cyberspace".
+
+Science fiction var faktisk den første litterære sjangeren som ble
+piratkopiert via Internett i stort omfang, gjennom
+"bookwarez"-kanaler som inneholdt bøker som hadde blitt skannet
+for hånd, en side om gangen, konvertert til digital tekst og
+korrekturlest. Selv idag er det fremdeles science fiction som blir
+piratkopiert mest.
+
+Ingenting kan gjøre meg mer oppglødd om fremtiden enn dette. Som
+forlegger Tim O'Reilly skrev i sitt epokegjørende essay, Piracy is
+Progressive Taxation [1] "å ha blitt godt nok kjent til å bli
+piratkopiert er en kjempebragd". Jeg ville heller satse min
+fremtid på litteratur som folk bryr seg så mye om at de er villige
+til å stjele den enn å vie meg til en form eller metoder som ikke
+har noen plass i århundrets dominerende medium.
+
+Hva med fremtiden? Mange skribenter frykter at elektroniske bøker
+vil erstatte trykte bøker i fremtiden, gjennom teknologiske
+forbedringer og endringer i publikums vaner og preferanser. Jeg er
+skeptisk til dette - kodeksformatet har holdt ut i århundrer som
+en enkel og elegant utformet løsning for de funksjonene som
+trykking åpner for og krever, om enn for en relativt liten andel
+av befolkningen. De fleste er ikke og vil aldri bli lesere - men
+de som ER lesere vil være lesere for alltid, og de er absolutt
+gale etter papir.
+
+Men la oss si at det skulle komme til å skje at alle kun vil ha
+elektroniske bøker.
+
+Jeg tror ikke det er praktisk gjennomførbart å innkreve betaling
+for kopier av elektroniske tekster. Bytes kommer aldri til å bli
+vanskeligere å kopiere. Så vi må finne ut hvordan vi skal få
+betalt for noe annet. Jeg sier ikke at du ikke kan be om betaling
+for en kopierbar byte, men du kan ikke lenger tvinge en leser til
+å betale for tilgang til informasjon.
+
+Dette er ikke første gang skapende mennesker har gått gjennom en
+slik overgang. Vaudeville-utøvere måtte gå over til radio, en
+abrupt forandring fra å ha full kontroll over en forestilling
+(hvis de ikke har kjøpt en billett kaster du dem ut) til ingen
+kontroll i det hele tatt (enhver familie med en tolvåring som
+kunne bygge en krystallradio - datidens ekvivalent til å
+installere programvare for fildeling - kunne tune in og høre på).
+Det kom forretningsmodeller for radio, men å forutse dem på
+forhånd var ikke lett. Hvem kunne ha spådd at de store
+radioinntektene skulle komme gjennom å lage en allmenn lisens, få
+vedtatt nye lover og forskrifter, etablere en kollektiv
+rettighetsforvaltningsorganisasjon, og finne opp en ny form for
+statistisk matematikk, for å skaffe midlene?
+
+Å forutsi fremtiden til forlagsvirksomhet - dersom vinden skulle
+snu og papirbøker blir avleggs - er like vanskelig. Jeg vet ikke
+hvordan forfattere ville tjene penger i en slik verden, men jeg
+VET at jeg ville aldri kunne finne det ut ved å snu ryggen til
+Internett. Ved å være midt oppi elektronisk publisering, og ved å
+se på hva hundretusener av mine lesere gjør med mine e-bøker, får
+jeg mye bedre forståelse av markedet enn jeg kunne få på noen
+annen måte. Det samme gjør min forlegger. Jeg skal fortsette å
+arbeide som forfatter i fremtiden, og Tor Books og Holtzbrinck tar
+sin fremtid like alvorlig. De er enda mer investert i
+forlagsvirksomhetens fremtid enn jeg er. Så da jeg kom til min
+forlegger med denne planen om å gi bort bøker for å selge bøker
+var det en lett avgjørelse å ta for dem.
+
+Det er god forretning for meg også. Denne "markedsforskningen" med
+å gi bort e-bøker selger papirbøker. Hva mer er, ved at mine bøker
+blir lest av flere åpner det seg mange flere muligheter for meg
+til å tjene penger på annen virksomhet rundt mine bøker, slik som
+f.eks. Fulbright-stillingen ved University of Southern California
+jeg fikk ifjor (2006), denne høyt betalte artikkelen i Forbes,
+tale- og foredragsoppdrag, og andre muligheter for å undervise,
+skrive, og lisensiere mitt arbeid til oversettelser og til
+tilpasninger til andre verk eller medier. Mine fans' utrettelige
+evangelisering for mitt arbeid selger ikke bare bøkene mine - den
+selger MEG også.
+
+Den gylne tidsalder med hundrevis av forfattere som kun levde av
+sine royalties er bare floskler og valgflesk. Opp gjennom
+historien har forfattere alltid vært avhengige av dagjobber,
+undervisning, stipendier, arv, oversettelser, lisensiering og ymse
+og odde annet for å kunne klare seg. Internett selger ikke bare
+flere bøker for meg, men gir meg også flere muligheter enn før til
+å tjene penger på virksomhet som er relatert til skrivingen min.
+
+Aldri før har så mange mennesker lest så mange ord av så mange
+forfattere som nå idag. Internett er en litterær verden av skrevne
+ord. For en flott og vakker ting dette er for forfattere.
+
+
+[1] Tim O'Reilly: Piracy is Progressive Taxation, and Other
+Thoughts on the Evolution of Online Distribution
+https://www.openp2p.com/lpt/a/3015
+
+                         ----
+
+Denne artikkelen er opprinnelig trykket i Forbes magazine (2006).
+Oversatt til norsk av Thomas Gramstad.
+
+Cory Doctorow er science fiction-forfatter, journalist og
+medredaktør for Boing Boing, en populær blogg om teknologi, kultur
+og politikk. Han kommer fra Canada, har tidligere arbeidet for EFF
+(Electronic Frontier Foundation) bl.a. som Europa-koordinator
+(European Affairs Director) 2001-2006. Alle hans bøker, noveller
+og artikler er lagt ut med Creative Commons-lisenser og kan fritt
+lastes ned fra hans nettsted Craphound.com. Les mer om Cory
+Doctorow i Wikipedia:
+https://en.wikipedia.org/wiki/Cory_Doctorow
+
+                         ----
+
+Se også:
+En oversikt over dokumenter på norsk av eller om Cory Doctorow
+https://kunnskapsallmenning.no/cory/
