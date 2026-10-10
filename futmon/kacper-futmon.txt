@@ -132,7 +132,7 @@ I.O.U. and someone else vouching for you. /We/ wil vouch for /you/ as
 Build on models of logarithmic stability not exponential growth. 
 System may bechaotic and exibit stable states.
 
-\sum = currency = \pi Ã
+\sum = currency = \pi Ãƒ
            = time [period]
            = work = manpower + horsepower + energy
            = energy

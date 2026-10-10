@@ -16,21 +16,21 @@ Subject: Din bestilling hos SAS to 09 okt 2008.
         ------------------------------------------------------------------
         UTREISE
         to 09 okt 2008,SK4438(BU) SAS Norge
-        Oslo Gardermoen - Tromsø
+        Oslo Gardermoen - TromsÃ¸
         Avgang: 22:00
         Ankomst: 23:50
         Bagasje: 20 KG
-        Måltid: Mat og drikke til salgs
+        MÃ¥ltid: Mat og drikke til salgs
         Pris: HAPPY
          
         ------------------------------------------------------------------
         HJEMREISE
-        lø 11 okt 2008,SK4411(BU) SAS Norge
-        Tromsø - Oslo Gardermoen
+        lÃ¸ 11 okt 2008,SK4411(BU) SAS Norge
+        TromsÃ¸ - Oslo Gardermoen
         Avgang: 10:15
         Ankomst: 12:05
         Bagasje: 20 KG
-        Måltid: Mat og drikke til salgs
+        MÃ¥ltid: Mat og drikke til salgs
         Pris: HAPPY
          
         ------------------------------------------------------------------
@@ -39,10 +39,10 @@ Subject: Din bestilling hos SAS to 09 okt 2008.
         Elektronisk billett:: GN5BO
         ------------------------------------------------------------------
         PRIS
-        Oslo - Tromsø
+        Oslo - TromsÃ¸
         Voksen 974
          
-        Tromsø - Oslo
+        TromsÃ¸ - Oslo
         Voksen 737
          
         Servicehonorar 50
@@ -61,16 +61,16 @@ Subject: Din bestilling hos SAS to 09 okt 2008.
         Billettendringer:  Kan endres mot et gebyr.
         Se detaljerte prisregler under.
         Refusjon:  Nei.
-        Skatter og avgifter på ubenyttede billetter er refunderbare.
-        Barnerabatt:  0-2 år gratis, 2-15 år 33% rabatt.
+        Skatter og avgifter pÃ¥ ubenyttede billetter er refunderbare.
+        Barnerabatt:  0-2 Ã¥r gratis, 2-15 Ã¥r 33% rabatt.
         ------------------------------------------------------------------
-        * Setevalg kan bli endret. Har du fått tildelt sete men ønsker å endre? Klikk på setenummeret.
-        ** Totalbeløpet er reservert og vil bli trukket umiddelbart etter at bestillingen er bekreftet
+        * Setevalg kan bli endret. Har du fÃ¥tt tildelt sete men Ã¸nsker Ã¥ endre? Klikk pÃ¥ setenummeret.
+        ** TotalbelÃ¸pet er reservert og vil bli trukket umiddelbart etter at bestillingen er bekreftet
         Bestillingstidspunkt: fr 26 sep 2008, 13:35 EDT
          
         SAS
         Organisasjonsnummer: 961510740 MVA
          
-        Du kan kansellere innen 24 timer etter bestilling. Totalprisen blir da refundert. Du kan kansellere selv på sas.no eller kontakte oss på e-post eller telefon.
+        Du kan kansellere innen 24 timer etter bestilling. Totalprisen blir da refundert. Du kan kansellere selv pÃ¥ sas.no eller kontakte oss pÃ¥ e-post eller telefon.
         
 

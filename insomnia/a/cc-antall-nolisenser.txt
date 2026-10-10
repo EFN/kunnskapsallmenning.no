@@ -8,25 +8,25 @@ On 18.08.2008 19:10, Thomas Gramstad wrote:
 > Hei,
 > 
 > Har vi noen tall for bruken av de norske CC-lisensene etter
-> lanseringen? Jeg har fått spørsmål om dette. Såvidt jeg vet
+> lanseringen? Jeg har fÃ¥tt spÃ¸rsmÃ¥l om dette. SÃ¥vidt jeg vet
 > lagrer CC-organisasjonen statistikk fra sin lisensvalg-side.
-> Ligger denne statistikken noe sted, evt. hvem kan vi spørre?
+> Ligger denne statistikken noe sted, evt. hvem kan vi spÃ¸rre?
 
 Har ikke sett noe statistikk fra license chooser - de ville
-sannsynligvis være ubrukelige siden folk ofte utforsker
-lisensene via license chooser uten å ta resultatet i bruk.
+sannsynligvis vÃ¦re ubrukelige siden folk ofte utforsker
+lisensene via license chooser uten Ã¥ ta resultatet i bruk.
 
-CC samler inn (via søkemotorer) statistikk om hvilke lisenser
-som er bruk.  Rådataene fra slike innsamliger ligger her -
-CVS-format - virker som det vil være mye jobb å få noe fornuftig
+CC samler inn (via sÃ¸kemotorer) statistikk om hvilke lisenser
+som er bruk.  RÃ¥dataene fra slike innsamliger ligger her -
+CVS-format - virker som det vil vÃ¦re mye jobb Ã¥ fÃ¥ noe fornuftig
 ut av dem:
 https://wiki.creativecommons.org/License_statistics#Raw_search_engine_query_data
 
-Kjapt (& gæli)  kan du selv søke i Google-universet etter sider
-med bestemte lisenser på denne måten:
+Kjapt (& gÃ¦li)  kan du selv sÃ¸ke i Google-universet etter sider
+med bestemte lisenser pÃ¥ denne mÃ¥ten:
 https://www.google.no/search?hl=en&q=link%3Ahttp%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F3.0%2Fno%2F
 
-Her er resultatet fra et slikt søk jeg gjorde i dag (blir
+Her er resultatet fra et slikt sÃ¸k jeg gjorde i dag (blir
 penest dersom du ikke bruker proposjonalfont)
 
 ----------------------------------------------------------
@@ -39,31 +39,31 @@ https://creativecommons.org/licenses/by-nc-sa/3.0/no/	84
 Totalt:	                                               180
 ----------------------------------------------------------
 
-Så langt minst 180 sider som bruker de norske lisensene altså
-- og som ventet er by-nc-sa mest populær (47  %).
+SÃ¥ langt minst 180 sider som bruker de norske lisensene altsÃ¥
+- og som ventet er by-nc-sa mest populÃ¦r (47  %).
 
-NB: Google indekserer blant annet ikke sider som benytter SSI - så
-det er nok noen flere sider enn dette - men tror ikke SSI er så
+NB: Google indekserer blant annet ikke sider som benytter SSI - sÃ¥
+det er nok noen flere sider enn dette - men tror ikke SSI er sÃ¥
 veldig utbredt (selv om jeg selv bruker det en del).
 
-(Resultatet minnet meg på at jeg nok burde "oppgradere" egne sider
-fra "unported" til å bruke den norske lisensen - det skulle doble
+(Resultatet minnet meg pÃ¥ at jeg nok burde "oppgradere" egne sider
+fra "unported" til Ã¥ bruke den norske lisensen - det skulle doble
 antallet over natten!
 
 Denne siden har en del ferdigtygd statistikk:
    https://wiki.creativecommons.org/Metrics
-basert på "Raw_search_engine_query_data" over) men har ikke funnet
+basert pÃ¥ "Raw_search_engine_query_data" over) men har ikke funnet
 noen om norske lisenser (for ferske)?
 
 De som jobber med dette er SVJV Giorgos Cheliotis (Participatory Media
-Lab) <giorgos@smu.edu.sg> (og muligens også litt Mike
+Lab) <giorgos@smu.edu.sg> (og muligens ogsÃ¥ litt Mike
 Linksvayer <ml@creativecommons.org>).  Mulig de kan hjelpe deg litt mer.
 
 Her er lenker til et par foredrag om statistikk-prosjektet:
 https://www.scribd.com/doc/130277/Creative-Commons-Statistics-from-the-CC-Monitor-Project
 https://wiki.creativecommons.org/CCi_Legal_Day_Programme_2008#.22CC_licenses_worldwide.22
 
-Finner du ut noe mer så la oss få vite det.
+Finner du ut noe mer sÃ¥ la oss fÃ¥ vite det.
 -- 
 - gisle hannemyr [ gisle{at}hannemyr.no - https://folk.uio.no/gisle/ ]
 ========================================================================

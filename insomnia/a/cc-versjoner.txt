@@ -2,56 +2,56 @@ From gisle@ifi.uio.no Fri Oct  3 18:14:40 2008
 Date: Fri, 03 Oct 2008 18:04:07 +0200
 From: Gisle Hannemyr <gisle@ifi.uio.no>
 To: Sigg3.net <sigg3net@gmail.com>, cc-no-referansegruppe@mailman.kunnskapsallmenning.no
-Subject: Re: [cc-no-rg] CC's forskjellige versjoner (1, 2 og 3 nå)
+Subject: Re: [cc-no-rg] CC's forskjellige versjoner (1, 2 og 3 nÃ¥)
 
 On 27.09.2008 14:30, Sigg3.net wrote:
-> Lurte bare på hva forskjellen mellom v. 2 og 3 er for noe?
+> Lurte bare pÃ¥ hva forskjellen mellom v. 2 og 3 er for noe?
 
-Her er en kort redegjørelse om de ulike versjonene:
+Her er en kort redegjÃ¸relse om de ulike versjonene:
 
 - Versjon 1 og 2 av lisensen var veldig tett knyttet opp til copyright
-  slik dette er regulert i USA.  Versjon 3 er den første lisensen som
-  er  laget slik at den er forholdsvis enkel å tilpasse til
+  slik dette er regulert i USA.  Versjon 3 er den fÃ¸rste lisensen som
+  er  laget slik at den er forholdsvis enkel Ã¥ tilpasse til
   opphavsrettslovgivingen i andre land enn USA.
 
 - I versjon 3 kom vern av ideelle rettigheter inn i lisensene. Slikt
   vern (som er viktig i Europa, men som betraktes som uviktig i USA)
-  mangler helt i versjon 1 og 2.  Nå er det ikke nødvendigvis noe
-  problem at dette mangler.  Uavhengig av hva som står i lisensen
+  mangler helt i versjon 1 og 2.  NÃ¥ er det ikke nÃ¸dvendigvis noe
+  problem at dette mangler.  Uavhengig av hva som stÃ¥r i lisensen
   gjelder preseptoriske lovregler - og i Norge er de ideelle
-  rettighetene slått fast gjennom slike lovregler.  Men det er
+  rettighetene slÃ¥tt fast gjennom slike lovregler.  Men det er
   ryddigere og mer oversiktlig at de ideelle rettighetene er
   omtalt i lisensene.  Versjon 3 inneholder videre konkrete
-  retningslinjer for hvordan man kan gå frem for å unngå å
-  bli assosiert med et avledet verk man ikke ønsker å bli
-  assosiert med. Slike retningslinjer kan være greie å vise
+  retningslinjer for hvordan man kan gÃ¥ frem for Ã¥ unngÃ¥ Ã¥
+  bli assosiert med et avledet verk man ikke Ã¸nsker Ã¥ bli
+  assosiert med. Slike retningslinjer kan vÃ¦re greie Ã¥ vise
   til ved en eventuell konflikt.
 
 - Versjon 1 og 2 regulerer bare opphavsrett til verk.  Versjon 3
-  regulerer også det som opphavsrettsjurister kaller "nærstående
-  rettigheter" (som f.eks. retten til å fremføre et  verk offentlig,
+  regulerer ogsÃ¥ det som opphavsrettsjurister kaller "nÃ¦rstÃ¥ende
+  rettigheter" (som f.eks. retten til Ã¥ fremfÃ¸re et  verk offentlig,
   og databaserettigheter).  Mesteparten av det "ekstra" materialet som
   man finner i legal code for versjon 3 sammenlignet med versjon 1
-  og 2 er tekst handler om nærstående rettigheter.
+  og 2 er tekst handler om nÃ¦rstÃ¥ende rettigheter.
 
 - Versjon 1 forholder seg ikke til slike ting som tvangslisens og
   avtalelisens (som i Norge administeres av organisasjoner som Tono,
   Bono og Kopinor).  I versjon 2 er en klausul om dette tatt med, men
-  på en måte som i praksis bare passer til verk som er publisert i
-  USA.  I versjon 3 regulerer man dette på et mer prinsipiellt plan,
-  slik at det er lett å tilpasse dette til lokale
+  pÃ¥ en mÃ¥te som i praksis bare passer til verk som er publisert i
+  USA.  I versjon 3 regulerer man dette pÃ¥ et mer prinsipiellt plan,
+  slik at det er lett Ã¥ tilpasse dette til lokale
   opphavsrettorganisasjoner og nasjonal lovgiving.
 
-> Og hvor kan man holde seg oppdatert på dette, uten å måtte lese for
+> Og hvor kan man holde seg oppdatert pÃ¥ dette, uten Ã¥ mÃ¥tte lese for
 > mye lov? :)
 
 Jeg vet desverre ikke om noe sted der man kan finne ut av dette.
 
-Overstående har er basert på min egen hukommelse (fordi jeg har vært
-med lenge, og på ulike tidspunkt arbeidet med alle tre versjoner av
+OverstÃ¥ende har er basert pÃ¥ min egen hukommelse (fordi jeg har vÃ¦rt
+med lenge, og pÃ¥ ulike tidspunkt arbeidet med alle tre versjoner av
 CC-lisensene).  Jeg har lett etter en slik historie som du
-etterlyser på Creative Commons eget nettsted og andre steder uten
-at jeg har klart å finne noe.
+etterlyser pÃ¥ Creative Commons eget nettsted og andre steder uten
+at jeg har klart Ã¥ finne noe.
 -- 
 - gisle hannemyr [ gisle{at}hannemyr.no - https://folk.uio.no/gisle/ ]
 ========================================================================

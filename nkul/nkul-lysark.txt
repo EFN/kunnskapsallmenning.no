@@ -3,9 +3,9 @@ LYSARK 1:
 Creative Commons (CC):
 Tre temaer idag
 
-1. Gå gjennom lisensvalgene
-2. Hovedformålet til CC: Å skape allmenninger med
-   Frie kulturelle verk + flere andre formål
+1. GÃ¥ gjennom lisensvalgene
+2. HovedformÃ¥let til CC: Ã… skape allmenninger med
+   Frie kulturelle verk + flere andre formÃ¥l
 3. Noen problembarn:
    "Kommersiell"/"Ikke-kommersiell" og forholdet
    til de kollektive rettighetsorganisasjonene
@@ -14,34 +14,34 @@ Tre temaer idag
 
 LYSARK 2:
 
-Hovedformålet med CC: Free Cultural Works
+HovedformÃ¥let med CC: Free Cultural Works
 
 Definisjon av Frie kulturelle verk:
 
 Fra https://freedomdefined.org/Definition/Nb :
 
-    * Frihet til å bruke verket, og nyte fordelene av dette
+    * Frihet til Ã¥ bruke verket, og nyte fordelene av dette
 
-    * Frihet til å studere verket, og bruke kunnskapen som tilegnes
+    * Frihet til Ã¥ studere verket, og bruke kunnskapen som tilegnes
 
-    * Frihet til å lage og spre kopier (eksemplarer) av hele eller
+    * Frihet til Ã¥ lage og spre kopier (eksemplarer) av hele eller
       deler av verket
 
-    * Frihet til å endre eller forbedre verket og spre det
+    * Frihet til Ã¥ endre eller forbedre verket og spre det
       endrede eller avledete verket videre
 
-Disse frihetene bør være tilgjengelige for alle, hvor som helst og
-når som helst. De bør ikke begrenses av hvilken sammenheng verket
-brukes i. Kreativitet er å bruke en eksisterende ressurs på en
-måte som ingen tidligere har tenkt på.
+Disse frihetene bÃ¸r vÃ¦re tilgjengelige for alle, hvor som helst og
+nÃ¥r som helst. De bÃ¸r ikke begrenses av hvilken sammenheng verket
+brukes i. Kreativitet er Ã¥ bruke en eksisterende ressurs pÃ¥ en
+mÃ¥te som ingen tidligere har tenkt pÃ¥.
 
 
 LYSARK 3:
 
-Betingelser for at et verk skal kunne være fritt:
+Betingelser for at et verk skal kunne vÃ¦re fritt:
 
 Alle kildedata tilgjengelige (alle deler/filer, noter, kildekode)
-Formatet må være fritt og åpent (ikke produsenteid, hemmelig, patentert)
+Formatet mÃ¥ vÃ¦re fritt og Ã¥pent (ikke produsenteid, hemmelig, patentert)
 Ingen DRM eller tekniske sperrer
 Ingen andre begrensninger (f.eks. kontraktsbindinger)
 
@@ -50,13 +50,13 @@ https://freedomdefined.org/Definition/Nb
 
 LYSARK 4:
 
-Andre formål med CC
+Andre formÃ¥l med CC
 
 Gjenfinning av fribruksverk
-Felles globalt merkesystem uavhengig av språk og kulturbakgrunn
-Øke folks kunnskap og bevissthet om opphavsrett, både egne og
+Felles globalt merkesystem uavhengig av sprÃ¥k og kulturbakgrunn
+Ã˜ke folks kunnskap og bevissthet om opphavsrett, bÃ¥de egne og
 andres rettigheter.
-Det konservative formålet med CC: begrenset PR og bundling
+Det konservative formÃ¥let med CC: begrenset PR og bundling
 
 
 LYSARK 5:
@@ -66,14 +66,14 @@ Lisensvalgene i Creative Commons
 Gir opphav til 6 standardiserte lisenser
 https://www.creativecommons.no/info/omcc.shtml
 
-Lisensvalg gjøres her:
+Lisensvalg gjÃ¸res her:
 https://creativecommons.org/license/
 
-Burde det vært tre alternativer også på spørsmål nr. 2?
+Burde det vÃ¦rt tre alternativer ogsÃ¥ pÃ¥ spÃ¸rsmÃ¥l nr. 2?
 
 Det finnes enda flere CC-lisenser enn de 6.
 
-Idag: "Minstekrav" om at verket i sin helhet må kunne kopieres
+Idag: "Minstekrav" om at verket i sin helhet mÃ¥ kunne kopieres
 og distribueres ikke-kommersielt i uendret form.
 
 
@@ -85,8 +85,8 @@ Begrepene "Kommersiell" og "Ikke-kommersiell".
 Kommersiell=ervervsmessig?
 Ikke-kommersiell = privatpersoner, skoler&utdanning, biblioteker,
 frivillige organisasjoner, tros- og livssynssamfunn.
-Ikke-kommersiell = fravær av fortjeneste eller fortjeneste er
-ikke formålet. Eller mer spesifikt:
+Ikke-kommersiell = fravÃ¦r av fortjeneste eller fortjeneste er
+ikke formÃ¥let. Eller mer spesifikt:
 
 
 LYSARK 7:
@@ -94,22 +94,22 @@ LYSARK 7:
 KODA og CC Danmark
 
 "For at kunne bruge ordningen skal KODA-medlemmer underskrive
-nogle vilkår i forhold til KODA, og i den forbindelse oplyse
-hvilke værker de ønsker at licensere under Creative
+nogle vilkÃ¥r i forhold til KODA, og i den forbindelse oplyse
+hvilke vÃ¦rker de Ã¸nsker at licensere under Creative
 Commons-ordningen. Som KODA-medlem kan man derudover kun benytte
 sig af licenser til ikke-kommerciel brug; og det er derfor ikke
-alle Creative Commons-licenserne, der kan vælges.
+alle Creative Commons-licenserne, der kan vÃ¦lges.
 
-Creative Commons Danmark har formuleret et sæt retningslinjer til
+Creative Commons Danmark har formuleret et sÃ¦t retningslinjer til
 afklaring af udtrykket "ikke-kommerciel". De vigtigste punkter er:
 
 * Musikbrug er kun ikke-kommerciel, hvis musikken bruges af en
   privatperson eller visse nonprofit-foreninger/-institutioner.
 
-* Der må ikke modtages pengebeløb eller andre værdier som vederlag
+* Der mÃ¥ ikke modtages pengebelÃ¸b eller andre vÃ¦rdier som vederlag
   for musikken.
 
-* Værket ikke anvendes i forbindelse med reklame, annoncering,
+* VÃ¦rket ikke anvendes i forbindelse med reklame, annoncering,
   sponsorering eller and promovering af tredjemands produkter
   eller tjenesteydelser."
 
@@ -124,12 +124,12 @@ LYSARK 8:
 Problemet:
 1. 92 % av Kopinors inntekter kommer fra "ikke-kommersiell" bruk
    (dvs. i undervisningsinst., bibl. og tros/livssynssamfunn).
-2. CC går foran avtalelisens.
-3. Bruk av CC leder til fravær av innkreving (og fordeling) av
+2. CC gÃ¥r foran avtalelisens.
+3. Bruk av CC leder til fravÃ¦r av innkreving (og fordeling) av
    midler under avtalelisens
 4. Kopinor er ikke en medlemsorganisasjon.
 
-Dette gjør skillet kommersiell/ikke-kommersiell vanskelig.
+Dette gjÃ¸r skillet kommersiell/ikke-kommersiell vanskelig.
 
 Videre: TONO-medlemmer har ikke lenger opphavsrettighetene til
 egen musikk.
@@ -137,39 +137,39 @@ egen musikk.
 Amerikansk definisjon, norsk definisjon, eller "spesiell
 definisjon" (danske og nederlandske modeller)?
 
-CCN går foreløpig for amerikansk modell, siden vi ikke har
-noe å tilby Kopinor per idag.
+CCN gÃ¥r forelÃ¸pig for amerikansk modell, siden vi ikke har
+noe Ã¥ tilby Kopinor per idag.
 
 
 LYSARK 9:
 
 Enda et problembarn: Ideelle rettigheter
 
-Lessig har uttalt at de ideelle rettighetene er "et fransk påfunn"
-som ikke hører hjemme i opphavsretten.
+Lessig har uttalt at de ideelle rettighetene er "et fransk pÃ¥funn"
+som ikke hÃ¸rer hjemme i opphavsretten.
 
-Lessig ønsker at det skal være så vanskelig som mulig å håndheve
+Lessig Ã¸nsker at det skal vÃ¦re sÃ¥ vanskelig som mulig Ã¥ hÃ¥ndheve
 visse ideelle rettigheter.
 
-En ikke-amerikansk CC vil altså ikke tvangsinnføre ideelle
-rettigheter også i USA, av to grunner:
+En ikke-amerikansk CC vil altsÃ¥ ikke tvangsinnfÃ¸re ideelle
+rettigheter ogsÃ¥ i USA, av to grunner:
 
-1. CC International kommer aldri til å gå med på det
-2. Om de likevel gikk med på det så er det ingen garanti for at
-USA vil begynne å respektere ideelle rettigheter.
+1. CC International kommer aldri til Ã¥ gÃ¥ med pÃ¥ det
+2. Om de likevel gikk med pÃ¥ det sÃ¥ er det ingen garanti for at
+USA vil begynne Ã¥ respektere ideelle rettigheter.
 
-De ideelle rettighetene i norsk lov består av tre komponenter
-(ÅVL § 3). Retten til
+De ideelle rettighetene i norsk lov bestÃ¥r av tre komponenter
+(Ã…VL Â§ 3). Retten til
 
 1. Navngivelse
-2. Ikke-krenkende tilgjengeliggjøring/bearbeidelse
+2. Ikke-krenkende tilgjengeliggjÃ¸ring/bearbeidelse
 3. Dis-assosiasjon
 
 Navngivelse) og dis-assosiasjon) uproblematiske i CC - eksplisitt
-innført gjennom lisensen. Problemet er ikke-krenkende
-tilgjengeliggjøring/bearbeidelse.
+innfÃ¸rt gjennom lisensen. Problemet er ikke-krenkende
+tilgjengeliggjÃ¸ring/bearbeidelse.
 
-CCi ønsker at man fraskriver seg denne retten. Det kan man ikke i
+CCi Ã¸nsker at man fraskriver seg denne retten. Det kan man ikke i
 Norge - hva skjer da?
 
 
@@ -183,9 +183,9 @@ creativecommons.no
 
 Definition of Free Cultural Works
 https://freedomdefined.org/Definition
-Bokmål: https://freedomdefined.org/Definition/Nb
+BokmÃ¥l: https://freedomdefined.org/Definition/Nb
 
-Infrastruktur for allmenningene i nettverksøkonomien
+Infrastruktur for allmenningene i nettverksÃ¸konomien
 https://www.itu.no/filearchive/Kommentar_av_Gramstad.pdf
 
 DRAFT Creative Commons Statement of Intent for
@@ -203,6 +203,6 @@ LYSARK 11:
 
 Takk for meg!
 
-Spørsmål?
+SpÃ¸rsmÃ¥l?
 
 thomas@efn.no
